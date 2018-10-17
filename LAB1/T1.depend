@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539778244 source:c:\users\cristi\desktop\tema1\tema\main.cpp
+	<iostream>
+	<string.h>
+	<cmath>
+
